@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas puedan recibir información
+ de forma estructurada porque facilita el procesamiento y análisis de los datos.
+Los ciudadanos pueden reportar situaciones de manera organizada y clara. 
+Esto ayuda a las entidades a responder más rápido a las necesidades de la comunidad.
+El uso de formatos como JSON permite intercambiar información entre sistemas de forma eficiente.
+Además, se reducen errores en la recepción de datos. Las plataformas digitales mejoran la comunicación entre ciudadanos
+y organizaciones. También permiten llevar un registro de los reportes recibidos. 
+De esta manera se contribuye a una gestión más eficiente y transparente.
